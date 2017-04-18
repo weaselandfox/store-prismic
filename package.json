@@ -1,0 +1,42 @@
+{
+  "name": "store-prismic",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "repository": "puhastudio/store-prismic",
+  "author": {
+    "name": "PUHA Studio",
+    "url": "https://www.puhastudio.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "cli-app",
+    "prismic.io"
+  ],
+  "dependencies": {
+    "meow": "^3.7.0",
+    "prismic.io": "^3.5.5"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "babel-eslint": "^7.2.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "rimraf": "^2.6.1",
+    "sinon": "^2.1.0"
+  }
+}
