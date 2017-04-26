@@ -2,6 +2,6 @@
   "extends": "airbnb",
   "parser": "babel-eslint",
   "rules": {
-    "import/no-dynamic-require"
+    "import/no-dynamic-require": 0
   }
 }
