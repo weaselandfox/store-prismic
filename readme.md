@@ -83,3 +83,7 @@ $ store-prismic --help
 ## License
 
 MIT © [PUHA](https://github.com/puhastudio)
+
+---
+
+<img src="https://avatars3.githubusercontent.com/u/11931328?s=200&v=4" width="50"></img>
