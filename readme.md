@@ -21,8 +21,11 @@ Table of Content (ToC)
 
 ## Install
 
+In order to install this repository type the follow GNU/Bash/Shell commands under your terminal (wether you are using Mac OS, Linux, or Windows):
+
 ```
-$ npm install --save store-prismic
+# if you have a workspace directory remove the mkdir workspace from the command
+$ cd ~ && mkdir workspace && cd workspace && git clone https://github.com/tiagomoraismorgado88/store-prismic && cd store-prismic && npm install --save store-prismic
 ```
 
 ---
@@ -61,7 +64,7 @@ Default: `-`
 ## CLI
 
 ```
-$ npm install --global store-prismic
+$ pwd && cd ~/workspace/storeprismic && npm install --global store-prismic
 ```
 
 ```
