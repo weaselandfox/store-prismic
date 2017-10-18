@@ -83,6 +83,7 @@ $ store-prismic --help
 ## License
 
 This repository is licensed under an MIT license. Please feel free to modify it and re-distribute it under the license terms
+
 MIT © [PUHA](https://github.com/puhastudio)
 
 ---
