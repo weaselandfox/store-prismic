@@ -2,6 +2,22 @@
 
 > Store the output of a Prismic.io repo to disk.
 
+Table of Content (ToC)
+=====================
+
+* [Install](#install)
+* [Usage](#usage)
+* [API](#api)
+* [storePrismic(options)](#store-prismic-options)
+* [options](#options)
+* [endpoint](#endpoint)
+* [output](#output)
+* [endpoint](#endpoint)
+* [output](#output)
+* [CLI](#cli)
+* [License](#license)
+
+---
 
 ## Install
 
@@ -9,6 +25,7 @@
 $ npm install --save store-prismic
 ```
 
+---
 
 ## Usage
 
@@ -21,6 +38,7 @@ storePrismic({
 });
 ```
 
+---
 
 ## API
 
@@ -38,7 +56,7 @@ Default: `-`
 Type: `string`<br>
 Default: `-`
 
-
+---
 
 ## CLI
 
@@ -60,6 +78,7 @@ $ store-prismic --help
     $ store-prismic -e https://micro.cdn.prismic.io/api -o data.json
 ```
 
+---
 
 ## License
 
