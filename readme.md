@@ -1,4 +1,4 @@
-# store-prismic [![Build Status](https://travis-ci.org/puhastudio/store-prismic.svg?branch=master)](https://travis-ci.org/puhastudio/store-prismic)
+# Store Prismic [![Build Status](https://travis-ci.org/puhastudio/store-prismic.svg?branch=master)](https://travis-ci.org/puhastudio/store-prismic)
 
 > Store the output of a Prismic.io repo to disk.
 
